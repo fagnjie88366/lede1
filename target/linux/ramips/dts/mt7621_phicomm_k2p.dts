@@ -5,7 +5,7 @@
 
 / {
 	compatible = "phicomm,k2p", "mediatek,mt7621-soc";
-	model = "Skspruce-3300-10";
+	model = "西加云杉 3300-10";
 
 	aliases {
 		led-boot = &led_blue;
